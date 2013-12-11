@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Ready to use seismo-server",
   "scripts": {
-    "watch": "nodemon --watch source --watch config source/server.js"
+    "watch": "nodemon --watch source --watch config app.js"
   },
   "repository": {
     "type": "git",
